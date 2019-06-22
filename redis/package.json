@@ -1,0 +1,12 @@
+{
+  "name": "redis-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peakwinter/scripts",
+  "author": "Jacob Cook <jacob@peakwinter.net>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "handy-redis": "^1.5.5"
+  }
+}
